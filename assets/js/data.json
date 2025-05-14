@@ -1,0 +1,68 @@
+{
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Irama Nusantara",
+      "artist": "Mysic Indonesia",
+      "duration": "3:45",
+      "cover": "/assets/images/fallback.svg",
+      "audioSrc": ""
+    },
+    {
+      "id": 2,
+      "title": "Melodi Pagi",
+      "artist": "Suara Merdu",
+      "duration": "2:55",
+      "cover": "/assets/images/fallback.svg",
+      "audioSrc": ""
+    },
+    {
+      "id": 3,
+      "title": "Harmoni Senja",
+      "artist": "Musikalisasi",
+      "duration": "4:20",
+      "cover": "/assets/images/fallback.svg",
+      "audioSrc": ""
+    },
+    {
+      "id": 4,
+      "title": "Lagu Bahagia",
+      "artist": "Senandung Hati",
+      "duration": "3:15",
+      "cover": "/assets/images/fallback.svg",
+      "audioSrc": ""
+    },
+    {
+      "id": 5,
+      "title": "Kenangan Manis",
+      "artist": "Lirik Indah",
+      "duration": "3:30",
+      "cover": "/assets/images/fallback.svg",
+      "audioSrc": ""
+    },
+    {
+      "id": 6,
+      "title": "Perjalanan Hidup",
+      "artist": "Musisi Jalanan",
+      "duration": "4:10",
+      "cover": "/assets/images/fallback.svg",
+      "audioSrc": ""
+    },
+    {
+      "id": 7,
+      "title": "Langit Biru",
+      "artist": "Awan Putih",
+      "duration": "3:22",
+      "cover": "/assets/images/fallback.svg",
+      "audioSrc": ""
+    },
+    {
+      "id": 8,
+      "title": "Rindu Kamu",
+      "artist": "Pelangi Hati",
+      "duration": "2:59",
+      "cover": "/assets/images/fallback.svg",
+      "audioSrc": ""
+    }
+  ]
+} 
